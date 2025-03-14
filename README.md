@@ -5,15 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beyzasagmen" alt="beyzasagmen" /></a> </p>
 
+- 🔭 I’m currently working on **Front End Development**
+
 - 🌱 I’m currently learning **JavaScript, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/beyzasagmen](https://github.com/beyzasagmen)
 
-- 📫 How to reach me **LinkeIn**
+- 📫 How to reach me **@LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/@beyza sağmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@beyza sağmen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/@beyza-sağmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@beyza-sağmen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
