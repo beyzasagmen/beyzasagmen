@@ -1,26 +1,24 @@
 <h1 align="center">Merhaba 👋, ben Beyza SAĞMEN</h1>
 <h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beyzasagmen&label=Profile%20views&color=0e75b6&style=flat" alt="beyzasagmen" /> </p>
+# 💫 About Me:
+🔭 I’m currently working on Front End Geliştirme.<br><br>🌱 I’m learning Javascript ve Python.<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beyzasagmen" alt="beyzasagmen" /></a> </p>
 
-- 🔭 Şu anda **Ön Uç Geliştirme** üzerinde çalışıyorum
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=beyzasagmen&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=beyzasagmen&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=beyzasagmen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 Şu anda **JavaScript'i öğreniyorum, Python**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=beyzasagmen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 👨‍💻 Tüm projelerim şu adreste mevcuttur: [https://github.com/beyzasagmen](https://github.com/beyzasagmen)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=beyzasagmen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=beyzasagmen&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/tr/urunler/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" yükseklik="40"/> </a> <a href="https://developer.mozilla.org/tr-TR/dokümanlar/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" genişlik="40" yükseklik="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beyzasagmen&show_icons=true&locale=tr&layout=compact" alt="beyzasagmen" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=beyzasagmen&show_icons=true&locale=tr" alt="beyzasagmen" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beyzasagmen&" alt="beyzasagmen" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
