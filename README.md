@@ -2,7 +2,7 @@
 <h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Front End Geliştirme.<br><br>🌱 I’m learning Javascript and Python.<br>
+🔭 I’m currently working on Front End Development.<br><br>🌱 I’m learning Javascript and Python.<br>
 
 
 # 💻 Tech Stack:
